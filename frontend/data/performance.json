@@ -22,6 +22,14 @@
     "maxPct": null,
     "fills": 0
   },
+  "costsModelled": false,
+  "avgCostR": null,
+  "totalCostR": null,
+  "netWins": null,
+  "netLosses": null,
+  "winRateNet": null,
+  "expectancyNetR": null,
+  "profitFactorNet": null,
   "maxWinningStreak": 0,
   "maxLosingStreak": 0,
   "maxDrawdownR": null,
@@ -71,6 +79,6 @@
     "until": null,
     "signalsInWindow": 0
   },
-  "generatedAt": 1788067003291,
-  "disclaimer": "Win rate = wins / (wins + losses); waiting/expired/ambiguous/cancelled signals are excluded from the denominator. The confluence score is a quality ranking, not a probability. Past performance does not guarantee future results."
+  "generatedAt": 1795018924012,
+  "disclaimer": "Win rate = wins / (wins + losses); waiting/expired/ambiguous/cancelled signals are excluded from the denominator. Gross figures (winRate, expectancyR, profitFactor, sharpeR, monteCarlo) EXCLUDE fees and funding; the *Net figures include them and are the ones to read. The confluence score is a quality ranking, not a probability. Past performance does not guarantee future results."
 }
