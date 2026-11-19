@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795093281300,
+  "generatedAt": 1795093529841,
   "universeSource": "binance-futures-mirror",
   "rows": [
     {
@@ -14,8 +14,8 @@
       "adx": 33.7,
       "atrPercent": 0.29,
       "relVolume": 0.92,
-      "fundingRatePct": 0.00213,
-      "openInterest": 94471.18
+      "fundingRatePct": 0.00187,
+      "openInterest": 94450.52
     },
     {
       "symbol": "ETHUSDT",
@@ -29,8 +29,8 @@
       "adx": 28.3,
       "atrPercent": 0.381,
       "relVolume": 1.37,
-      "fundingRatePct": 0.00768,
-      "openInterest": 2468015.195
+      "fundingRatePct": 0.00761,
+      "openInterest": 2467676.579
     },
     {
       "symbol": "SOLUSDT",
@@ -44,8 +44,8 @@
       "adx": 21.7,
       "atrPercent": 0.433,
       "relVolume": 1.96,
-      "fundingRatePct": 0.00582,
-      "openInterest": 8334368.01
+      "fundingRatePct": 0.00576,
+      "openInterest": 8332903.17
     },
     {
       "symbol": "ZECUSDT",
@@ -59,8 +59,8 @@
       "adx": 29.9,
       "atrPercent": 0.711,
       "relVolume": 0.79,
-      "fundingRatePct": 0.00355,
-      "openInterest": 482537.573
+      "fundingRatePct": 0.00345,
+      "openInterest": 482486.618
     },
     {
       "symbol": "MMTUSDT",
@@ -74,8 +74,8 @@
       "adx": 22.0,
       "atrPercent": 2.879,
       "relVolume": 1.21,
-      "fundingRatePct": -0.00281,
-      "openInterest": 103366645.0
+      "fundingRatePct": -0.00279,
+      "openInterest": 103512055.0
     },
     {
       "symbol": "XRPUSDT",
@@ -89,8 +89,8 @@
       "adx": 29.6,
       "atrPercent": 0.486,
       "relVolume": 2.79,
-      "fundingRatePct": 0.00942,
-      "openInterest": 257682931.6
+      "fundingRatePct": 0.00933,
+      "openInterest": 257670254.1
     },
     {
       "symbol": "HYPEUSDT",
@@ -104,8 +104,8 @@
       "adx": 27.0,
       "atrPercent": 0.5,
       "relVolume": 2.52,
-      "fundingRatePct": 0.00497,
-      "openInterest": 5017245.23
+      "fundingRatePct": 0.00427,
+      "openInterest": 5017288.97
     },
     {
       "symbol": "PIEVERSEUSDT",
@@ -120,7 +120,7 @@
       "atrPercent": 3.347,
       "relVolume": 1.16,
       "fundingRatePct": 0.005,
-      "openInterest": 12922959.0
+      "openInterest": 12926015.0
     },
     {
       "symbol": "NEARUSDT",
@@ -134,8 +134,8 @@
       "adx": 28.9,
       "atrPercent": 0.72,
       "relVolume": 1.22,
-      "fundingRatePct": 0.00473,
-      "openInterest": 54776106.0
+      "fundingRatePct": 0.00454,
+      "openInterest": 54766113.0
     },
     {
       "symbol": "EVAAUSDT",
@@ -149,8 +149,8 @@
       "adx": 37.5,
       "atrPercent": 2.379,
       "relVolume": 0.49,
-      "fundingRatePct": 0.01706,
-      "openInterest": 13739051.4
+      "fundingRatePct": 0.01773,
+      "openInterest": 13743524.6
     },
     {
       "symbol": "BNBUSDT",
@@ -165,7 +165,7 @@
       "atrPercent": 0.271,
       "relVolume": 1.17,
       "fundingRatePct": 0.00606,
-      "openInterest": 531895.84
+      "openInterest": 531912.94
     },
     {
       "symbol": "1000PEPEUSDT",
@@ -180,7 +180,7 @@
       "atrPercent": 1.07,
       "relVolume": 1.81,
       "fundingRatePct": 0.01,
-      "openInterest": 21568960841.0
+      "openInterest": 21515261942.0
     },
     {
       "symbol": "PIPPINUSDT",
@@ -195,7 +195,7 @@
       "atrPercent": 2.951,
       "relVolume": 0.68,
       "fundingRatePct": 0.005,
-      "openInterest": 624740077.0
+      "openInterest": 625483989.0
     },
     {
       "symbol": "DOGEUSDT",
@@ -209,8 +209,8 @@
       "adx": 22.1,
       "atrPercent": 0.383,
       "relVolume": 2.27,
-      "fundingRatePct": 0.00812,
-      "openInterest": 2347824211.0
+      "fundingRatePct": 0.00809,
+      "openInterest": 2344020494.0
     },
     {
       "symbol": "IRYSUSDT",
@@ -224,8 +224,8 @@
       "adx": 17.4,
       "atrPercent": 3.519,
       "relVolume": 0.64,
-      "fundingRatePct": -0.6616,
-      "openInterest": 369844869.0
+      "fundingRatePct": -0.66354,
+      "openInterest": 370920859.0
     },
     {
       "symbol": "ENAUSDT",
@@ -239,8 +239,8 @@
       "adx": 10.7,
       "atrPercent": 0.811,
       "relVolume": 1.06,
-      "fundingRatePct": 0.00075,
-      "openInterest": 569502230.0
+      "fundingRatePct": 0.00077,
+      "openInterest": 569742441.0
     },
     {
       "symbol": "ADAUSDT",
@@ -255,7 +255,7 @@
       "atrPercent": 0.468,
       "relVolume": 1.55,
       "fundingRatePct": 0.01,
-      "openInterest": 378521378.0
+      "openInterest": 378369603.0
     },
     {
       "symbol": "BTWUSDT",
@@ -270,7 +270,7 @@
       "atrPercent": 4.818,
       "relVolume": 0.43,
       "fundingRatePct": 0.005,
-      "openInterest": 23120170.0
+      "openInterest": 23082789.0
     },
     {
       "symbol": "ICNTUSDT",
@@ -284,8 +284,8 @@
       "adx": 45.5,
       "atrPercent": 4.631,
       "relVolume": 0.65,
-      "fundingRatePct": 0.005,
-      "openInterest": 23653023.0
+      "fundingRatePct": 0.00489,
+      "openInterest": 23670316.0
     },
     {
       "symbol": "BREVUSDT",
@@ -299,8 +299,8 @@
       "adx": 10.0,
       "atrPercent": 1.625,
       "relVolume": 1.23,
-      "fundingRatePct": -0.07065,
-      "openInterest": 98643128.0
+      "fundingRatePct": -0.07293,
+      "openInterest": 98333374.0
     },
     {
       "symbol": "SUIUSDT",
@@ -329,7 +329,7 @@
       "adx": 21.8,
       "atrPercent": 0.597,
       "relVolume": 2.66,
-      "fundingRatePct": -0.00274,
+      "fundingRatePct": -0.00278,
       "openInterest": null
     },
     {
@@ -359,7 +359,7 @@
       "adx": 20.9,
       "atrPercent": 1.665,
       "relVolume": 0.94,
-      "fundingRatePct": -0.06573,
+      "fundingRatePct": -0.06731,
       "openInterest": null
     },
     {
@@ -374,7 +374,7 @@
       "adx": 18.6,
       "atrPercent": 0.598,
       "relVolume": 1.78,
-      "fundingRatePct": 0.00238,
+      "fundingRatePct": 0.00234,
       "openInterest": null
     },
     {
@@ -389,7 +389,7 @@
       "adx": 28.2,
       "atrPercent": 0.446,
       "relVolume": 1.49,
-      "fundingRatePct": 0.00554,
+      "fundingRatePct": 0.00544,
       "openInterest": null
     },
     {
@@ -419,27 +419,12 @@
       "adx": 23.0,
       "atrPercent": 0.485,
       "relVolume": 1.6,
-      "fundingRatePct": 0.00355,
-      "openInterest": null
-    },
-    {
-      "symbol": "ZKCUSDT",
-      "rank": 29,
-      "price": 0.026,
-      "bias1d": "strong_bearish",
-      "bias4h": "neutral",
-      "bias1h": "strong_bullish",
-      "regime": "MIXED",
-      "rsi": 50.0,
-      "adx": 15.1,
-      "atrPercent": 1.383,
-      "relVolume": 0.46,
-      "fundingRatePct": -0.33508,
+      "fundingRatePct": 0.00352,
       "openInterest": null
     },
     {
       "symbol": "NAORISUSDT",
-      "rank": 30,
+      "rank": 29,
       "price": 0.03425,
       "bias1d": "strong_bearish",
       "bias4h": "bearish",
@@ -449,12 +434,12 @@
       "adx": 49.6,
       "atrPercent": 5.608,
       "relVolume": 0.56,
-      "fundingRatePct": 0.01798,
+      "fundingRatePct": 0.01749,
       "openInterest": null
     },
     {
       "symbol": "VELVETUSDT",
-      "rank": 31,
+      "rank": 30,
       "price": 0.0785,
       "bias1d": "strong_bearish",
       "bias4h": "bullish",
@@ -464,7 +449,22 @@
       "adx": 15.4,
       "atrPercent": 4.588,
       "relVolume": 1.47,
-      "fundingRatePct": 0.0203,
+      "fundingRatePct": 0.02015,
+      "openInterest": null
+    },
+    {
+      "symbol": "ZKCUSDT",
+      "rank": 31,
+      "price": 0.026,
+      "bias1d": "strong_bearish",
+      "bias4h": "neutral",
+      "bias1h": "strong_bullish",
+      "regime": "MIXED",
+      "rsi": 50.0,
+      "adx": 15.1,
+      "atrPercent": 1.383,
+      "relVolume": 0.46,
+      "fundingRatePct": -0.33188,
       "openInterest": null
     },
     {
@@ -479,7 +479,7 @@
       "adx": 22.4,
       "atrPercent": 0.712,
       "relVolume": 4.3,
-      "fundingRatePct": -0.00899,
+      "fundingRatePct": -0.00863,
       "openInterest": null
     },
     {
@@ -494,7 +494,7 @@
       "adx": 18.0,
       "atrPercent": 2.524,
       "relVolume": 1.13,
-      "fundingRatePct": -0.08093,
+      "fundingRatePct": -0.08148,
       "openInterest": null
     },
     {
@@ -509,7 +509,7 @@
       "adx": 23.2,
       "atrPercent": 0.712,
       "relVolume": 2.03,
-      "fundingRatePct": 0.00467,
+      "fundingRatePct": 0.00465,
       "openInterest": null
     },
     {
@@ -524,7 +524,7 @@
       "adx": 19.9,
       "atrPercent": 0.525,
       "relVolume": 2.18,
-      "fundingRatePct": 0.00365,
+      "fundingRatePct": 0.00301,
       "openInterest": null
     },
     {
@@ -539,7 +539,7 @@
       "adx": 21.0,
       "atrPercent": 3.076,
       "relVolume": 0.53,
-      "fundingRatePct": -0.11682,
+      "fundingRatePct": -0.11538,
       "openInterest": null
     },
     {
@@ -569,7 +569,7 @@
       "adx": 36.3,
       "atrPercent": 0.64,
       "relVolume": 1.06,
-      "fundingRatePct": -0.00111,
+      "fundingRatePct": -0.00122,
       "openInterest": null
     },
     {
@@ -588,23 +588,8 @@
       "openInterest": null
     },
     {
-      "symbol": "ZILUSDT",
-      "rank": 40,
-      "price": 0.00096,
-      "bias1d": "strong_bearish",
-      "bias4h": "strong_bearish",
-      "bias1h": "strong_bearish",
-      "regime": "TRENDING_DOWN",
-      "rsi": 46.7,
-      "adx": 24.7,
-      "atrPercent": 1.036,
-      "relVolume": 1.89,
-      "fundingRatePct": -0.00087,
-      "openInterest": null
-    },
-    {
       "symbol": "INITUSDT",
-      "rank": 41,
+      "rank": 40,
       "price": 0.1033,
       "bias1d": "strong_bullish",
       "bias4h": "strong_bearish",
@@ -614,7 +599,22 @@
       "adx": 20.9,
       "atrPercent": 2.281,
       "relVolume": 0.2,
-      "fundingRatePct": -0.08356,
+      "fundingRatePct": -0.08315,
+      "openInterest": null
+    },
+    {
+      "symbol": "ZILUSDT",
+      "rank": 41,
+      "price": 0.00096,
+      "bias1d": "strong_bearish",
+      "bias4h": "strong_bearish",
+      "bias1h": "strong_bearish",
+      "regime": "TRENDING_DOWN",
+      "rsi": 46.7,
+      "adx": 24.7,
+      "atrPercent": 1.036,
+      "relVolume": 1.89,
+      "fundingRatePct": -0.00042,
       "openInterest": null
     },
     {
@@ -689,7 +689,7 @@
       "adx": 24.0,
       "atrPercent": 0.433,
       "relVolume": 1.46,
-      "fundingRatePct": -0.00546,
+      "fundingRatePct": -0.00563,
       "openInterest": null
     },
     {
@@ -719,7 +719,7 @@
       "adx": 15.7,
       "atrPercent": 0.393,
       "relVolume": 1.94,
-      "fundingRatePct": 0.00952,
+      "fundingRatePct": 0.00944,
       "openInterest": null
     },
     {
@@ -753,8 +753,23 @@
       "openInterest": null
     },
     {
-      "symbol": "ZROUSDT",
+      "symbol": "STRKUSDT",
       "rank": 51,
+      "price": 0.03286,
+      "bias1d": "bearish",
+      "bias4h": "strong_bearish",
+      "bias1h": "strong_bearish",
+      "regime": "TRENDING_DOWN",
+      "rsi": 42.9,
+      "adx": 28.3,
+      "atrPercent": 1.626,
+      "relVolume": 0.63,
+      "fundingRatePct": -0.00299,
+      "openInterest": null
+    },
+    {
+      "symbol": "ZROUSDT",
+      "rank": 52,
       "price": 1.4388,
       "bias1d": "neutral",
       "bias4h": "strong_bearish",
@@ -765,21 +780,6 @@
       "atrPercent": 0.821,
       "relVolume": 1.03,
       "fundingRatePct": 0.005,
-      "openInterest": null
-    },
-    {
-      "symbol": "STRKUSDT",
-      "rank": 52,
-      "price": 0.03286,
-      "bias1d": "bearish",
-      "bias4h": "strong_bearish",
-      "bias1h": "strong_bearish",
-      "regime": "TRENDING_DOWN",
-      "rsi": 42.9,
-      "adx": 28.3,
-      "atrPercent": 1.626,
-      "relVolume": 0.63,
-      "fundingRatePct": -0.00268,
       "openInterest": null
     },
     {
@@ -794,7 +794,7 @@
       "adx": 12.3,
       "atrPercent": 0.529,
       "relVolume": 2.76,
-      "fundingRatePct": -0.00219,
+      "fundingRatePct": -0.00388,
       "openInterest": null
     },
     {
@@ -839,7 +839,7 @@
       "adx": 24.9,
       "atrPercent": 0.442,
       "relVolume": 1.26,
-      "fundingRatePct": -0.00072,
+      "fundingRatePct": -0.00092,
       "openInterest": null
     },
     {
@@ -854,7 +854,7 @@
       "adx": 19.4,
       "atrPercent": 0.597,
       "relVolume": 1.19,
-      "fundingRatePct": 0.00245,
+      "fundingRatePct": 0.00239,
       "openInterest": null
     },
     {
@@ -869,7 +869,7 @@
       "adx": 34.7,
       "atrPercent": 1.079,
       "relVolume": 1.28,
-      "fundingRatePct": 0.00423,
+      "fundingRatePct": 0.00398,
       "openInterest": null
     },
     {
@@ -884,7 +884,7 @@
       "adx": 11.5,
       "atrPercent": 0.47,
       "relVolume": 2.26,
-      "fundingRatePct": -0.00334,
+      "fundingRatePct": -0.00369,
       "openInterest": null
     },
     {
@@ -899,27 +899,12 @@
       "adx": 14.9,
       "atrPercent": 1.232,
       "relVolume": 1.08,
-      "fundingRatePct": -0.08495,
-      "openInterest": null
-    },
-    {
-      "symbol": "JCTUSDT",
-      "rank": 61,
-      "price": 0.002014,
-      "bias1d": "bullish",
-      "bias4h": "strong_bearish",
-      "bias1h": "strong_bearish",
-      "regime": "RANGING",
-      "rsi": 38.7,
-      "adx": 21.8,
-      "atrPercent": 1.357,
-      "relVolume": 0.44,
-      "fundingRatePct": 0.02016,
+      "fundingRatePct": -0.08568,
       "openInterest": null
     },
     {
       "symbol": "QNTUSDT",
-      "rank": 62,
+      "rank": 61,
       "price": 156.15,
       "bias1d": "neutral",
       "bias4h": "strong_bearish",
@@ -930,6 +915,21 @@
       "atrPercent": 0.696,
       "relVolume": 2.73,
       "fundingRatePct": 0.01,
+      "openInterest": null
+    },
+    {
+      "symbol": "JCTUSDT",
+      "rank": 62,
+      "price": 0.002014,
+      "bias1d": "bullish",
+      "bias4h": "strong_bearish",
+      "bias1h": "strong_bearish",
+      "regime": "RANGING",
+      "rsi": 38.7,
+      "adx": 21.8,
+      "atrPercent": 1.357,
+      "relVolume": 0.44,
+      "fundingRatePct": 0.0195,
       "openInterest": null
     },
     {
@@ -944,7 +944,7 @@
       "adx": 12.9,
       "atrPercent": 0.618,
       "relVolume": 2.31,
-      "fundingRatePct": -0.0071,
+      "fundingRatePct": -0.00764,
       "openInterest": null
     },
     {
@@ -959,7 +959,7 @@
       "adx": 19.9,
       "atrPercent": 0.568,
       "relVolume": 1.26,
-      "fundingRatePct": 0.00274,
+      "fundingRatePct": 0.00218,
       "openInterest": null
     },
     {
@@ -974,7 +974,7 @@
       "adx": 15.3,
       "atrPercent": 0.595,
       "relVolume": 0.98,
-      "fundingRatePct": 0.00472,
+      "fundingRatePct": 0.00433,
       "openInterest": null
     },
     {
@@ -1034,7 +1034,7 @@
       "adx": 15.1,
       "atrPercent": 0.604,
       "relVolume": 1.93,
-      "fundingRatePct": 0.00785,
+      "fundingRatePct": 0.00716,
       "openInterest": null
     },
     {
@@ -1049,7 +1049,7 @@
       "adx": 38.1,
       "atrPercent": 0.811,
       "relVolume": 0.78,
-      "fundingRatePct": 0.00318,
+      "fundingRatePct": 0.00344,
       "openInterest": null
     },
     {
@@ -1064,7 +1064,7 @@
       "adx": 30.4,
       "atrPercent": 0.663,
       "relVolume": 1.52,
-      "fundingRatePct": 0.00358,
+      "fundingRatePct": 0.00347,
       "openInterest": null
     },
     {
@@ -1079,7 +1079,7 @@
       "adx": 18.0,
       "atrPercent": 0.839,
       "relVolume": 0.89,
-      "fundingRatePct": -0.14123,
+      "fundingRatePct": -0.13662,
       "openInterest": null
     },
     {
@@ -1098,23 +1098,8 @@
       "openInterest": null
     },
     {
-      "symbol": "IDOLUSDT",
-      "rank": 74,
-      "price": 0.021816,
-      "bias1d": "bullish",
-      "bias4h": "neutral",
-      "bias1h": "neutral",
-      "regime": "RANGING",
-      "rsi": 58.1,
-      "adx": 18.7,
-      "atrPercent": 1.996,
-      "relVolume": 0.42,
-      "fundingRatePct": 0.00724,
-      "openInterest": null
-    },
-    {
       "symbol": "SKYUSDT",
-      "rank": 75,
+      "rank": 74,
       "price": 0.04386,
       "bias1d": "strong_bearish",
       "bias4h": "strong_bearish",
@@ -1124,12 +1109,42 @@
       "adx": 58.8,
       "atrPercent": 1.506,
       "relVolume": 1.53,
-      "fundingRatePct": -0.00662,
+      "fundingRatePct": -0.00634,
+      "openInterest": null
+    },
+    {
+      "symbol": "IDOLUSDT",
+      "rank": 75,
+      "price": 0.021816,
+      "bias1d": "bullish",
+      "bias4h": "neutral",
+      "bias1h": "neutral",
+      "regime": "RANGING",
+      "rsi": 58.1,
+      "adx": 18.7,
+      "atrPercent": 1.996,
+      "relVolume": 0.42,
+      "fundingRatePct": 0.0067,
+      "openInterest": null
+    },
+    {
+      "symbol": "CHIPUSDT",
+      "rank": 76,
+      "price": 0.03304,
+      "bias1d": "strong_bearish",
+      "bias4h": "strong_bearish",
+      "bias1h": "bullish",
+      "regime": "TRENDING_DOWN",
+      "rsi": 69.7,
+      "adx": 43.2,
+      "atrPercent": 1.661,
+      "relVolume": 4.39,
+      "fundingRatePct": -0.03978,
       "openInterest": null
     },
     {
       "symbol": "BMTUSDT",
-      "rank": 76,
+      "rank": 77,
       "price": 0.02042,
       "bias1d": "strong_bullish",
       "bias4h": "strong_bearish",
@@ -1139,12 +1154,12 @@
       "adx": 41.1,
       "atrPercent": 2.677,
       "relVolume": 0.19,
-      "fundingRatePct": -0.43645,
+      "fundingRatePct": -0.43203,
       "openInterest": null
     },
     {
       "symbol": "SOONUSDT",
-      "rank": 77,
+      "rank": 78,
       "price": 0.2572,
       "bias1d": "neutral",
       "bias4h": "neutral",
@@ -1154,12 +1169,12 @@
       "adx": 25.5,
       "atrPercent": 1.156,
       "relVolume": 1.55,
-      "fundingRatePct": 0.01031,
+      "fundingRatePct": 0.01114,
       "openInterest": null
     },
     {
       "symbol": "OPUSDT",
-      "rank": 78,
+      "rank": 79,
       "price": 0.0766,
       "bias1d": "strong_bearish",
       "bias4h": "strong_bearish",
@@ -1169,12 +1184,12 @@
       "adx": 17.5,
       "atrPercent": 0.608,
       "relVolume": 1.65,
-      "fundingRatePct": -0.01879,
+      "fundingRatePct": -0.0191,
       "openInterest": null
     },
     {
       "symbol": "1000SHIBUSDT",
-      "rank": 79,
+      "rank": 80,
       "price": 0.003895,
       "bias1d": "strong_bearish",
       "bias4h": "strong_bearish",
@@ -1185,21 +1200,6 @@
       "atrPercent": 0.381,
       "relVolume": 3.28,
       "fundingRatePct": 0.01,
-      "openInterest": null
-    },
-    {
-      "symbol": "CHIPUSDT",
-      "rank": 80,
-      "price": 0.03304,
-      "bias1d": "strong_bearish",
-      "bias4h": "strong_bearish",
-      "bias1h": "bullish",
-      "regime": "TRENDING_DOWN",
-      "rsi": 69.7,
-      "adx": 43.2,
-      "atrPercent": 1.661,
-      "relVolume": 4.39,
-      "fundingRatePct": -0.03678,
       "openInterest": null
     },
     {
@@ -1214,7 +1214,7 @@
       "adx": 12.5,
       "atrPercent": 0.43,
       "relVolume": 0.89,
-      "fundingRatePct": 0.00084,
+      "fundingRatePct": 0.00071,
       "openInterest": null
     },
     {
@@ -1244,7 +1244,7 @@
       "adx": 13.7,
       "atrPercent": 0.752,
       "relVolume": 2.18,
-      "fundingRatePct": -0.00317,
+      "fundingRatePct": -0.00328,
       "openInterest": null
     },
     {
@@ -1259,7 +1259,7 @@
       "adx": 20.3,
       "atrPercent": 0.65,
       "relVolume": 2.87,
-      "fundingRatePct": 0.00229,
+      "fundingRatePct": 0.00198,
       "openInterest": null
     },
     {
@@ -1289,7 +1289,7 @@
       "adx": 27.9,
       "atrPercent": 0.997,
       "relVolume": 0.66,
-      "fundingRatePct": -0.00375,
+      "fundingRatePct": -0.00369,
       "openInterest": null
     },
     {
@@ -1304,7 +1304,7 @@
       "adx": 23.0,
       "atrPercent": 0.673,
       "relVolume": 1.68,
-      "fundingRatePct": 0.00291,
+      "fundingRatePct": 0.00204,
       "openInterest": null
     },
     {
@@ -1349,7 +1349,7 @@
       "adx": 14.2,
       "atrPercent": 0.824,
       "relVolume": 1.6,
-      "fundingRatePct": -0.01816,
+      "fundingRatePct": -0.01802,
       "openInterest": null
     },
     {
@@ -1364,7 +1364,7 @@
       "adx": 30.4,
       "atrPercent": 1.663,
       "relVolume": 0.29,
-      "fundingRatePct": -0.24016,
+      "fundingRatePct": -0.23046,
       "openInterest": null
     },
     {
@@ -1379,7 +1379,7 @@
       "adx": 13.4,
       "atrPercent": 1.266,
       "relVolume": 0.77,
-      "fundingRatePct": -0.07873,
+      "fundingRatePct": -0.07988,
       "openInterest": null
     },
     {
@@ -1424,7 +1424,7 @@
       "adx": 35.0,
       "atrPercent": 1.008,
       "relVolume": 0.41,
-      "fundingRatePct": 0.00113,
+      "fundingRatePct": 0.00081,
       "openInterest": null
     },
     {
@@ -1454,7 +1454,7 @@
       "adx": 35.8,
       "atrPercent": 1.053,
       "relVolume": 0.49,
-      "fundingRatePct": -0.12437,
+      "fundingRatePct": -0.12252,
       "openInterest": null
     },
     {
@@ -1473,18 +1473,18 @@
       "openInterest": null
     },
     {
-      "symbol": "MOCAUSDT",
+      "symbol": "1000BONKUSDT",
       "rank": 99,
-      "price": 0.00637,
+      "price": 0.002395,
       "bias1d": "strong_bearish",
       "bias4h": "strong_bearish",
       "bias1h": "neutral",
       "regime": "TRENDING_DOWN",
-      "rsi": 47.3,
-      "adx": 13.6,
-      "atrPercent": 0.874,
-      "relVolume": 0.53,
-      "fundingRatePct": 0.005,
+      "rsi": 65.9,
+      "adx": 21.1,
+      "atrPercent": 0.528,
+      "relVolume": 3.51,
+      "fundingRatePct": 0.00103,
       "openInterest": null
     },
     {
@@ -1499,7 +1499,7 @@
       "adx": 24.2,
       "atrPercent": 0.883,
       "relVolume": 1.02,
-      "fundingRatePct": -0.02496,
+      "fundingRatePct": -0.02551,
       "openInterest": null
     }
   ]
