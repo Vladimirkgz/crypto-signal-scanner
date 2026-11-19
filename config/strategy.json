@@ -97,7 +97,7 @@
     "maxAtrPercent": 3.0
   },
   "risk": {
-    "minRr": 2.0,
+    "minRr": 2.5,
     "preferredRr": 3.0,
     "stopBufferAtrMultiple": 0.5,
     "triggerBufferAtrMultiple": 0.1,
