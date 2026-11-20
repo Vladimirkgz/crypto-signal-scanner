@@ -97,13 +97,13 @@
     "maxAtrPercent": 3.0
   },
   "risk": {
-    "minRr": 2.5,
+    "minRr": 2.0,
     "preferredRr": 3.0,
     "stopBufferAtrMultiple": 0.5,
     "triggerBufferAtrMultiple": 0.1,
     "entryZoneAtrMultiple": 0.5,
-    "maxStopAtrMultiple": 3.5,
-    "maxRunupAtrMultiple": 3.5,
+    "maxStopAtrMultiple": 4.5,
+    "maxRunupAtrMultiple": 4.5,
     "minStructureRoomAtrMultiple": 1.0,
     "minStopAtrMultiple": 0.15
   },
