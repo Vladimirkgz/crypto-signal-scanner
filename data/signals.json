@@ -1,4 +1,83 @@
 {
-  "generatedAt": 1795236335205,
-  "signals": []
+  "generatedAt": 1795237260501,
+  "signals": [
+    {
+      "id": "SIG-a6e1d5c4aa",
+      "symbol": "NAORISUSDT",
+      "direction": "LONG",
+      "timeframe": "15m",
+      "quality": "B+",
+      "score": 81.2,
+      "components": {
+        "htfAlignment": 16.0,
+        "marketStructure": 15.0,
+        "liquiditySmc": 12.5,
+        "momentum": 15.0,
+        "volume": 10.0,
+        "volatility": 5,
+        "riskReward": 7.7
+      },
+      "generatedAt": 1795237260501,
+      "signalCandleCloseTime": 1795237199999,
+      "triggerPrice": 0.0327074556,
+      "entryPrice": null,
+      "entryZone": [
+        0.0323701776,
+        0.0327074556
+      ],
+      "currentPrice": 0.0312,
+      "currentPriceAt": 1795237260501,
+      "currentPriceSource": "scan",
+      "stopLoss": 0.030102722,
+      "takeProfit": 0.03933,
+      "riskReward": 2.5425,
+      "invalidationLevel": 0.03044,
+      "targetKind": "swing_high",
+      "marketRegime": "TRENDING_UP",
+      "htf1dBias": "strong_bearish",
+      "htf4hBias": "bullish",
+      "htf1hBias": "strong_bullish",
+      "session": "ASIA",
+      "fundingRatePct": 0.005,
+      "fundingExtreme": false,
+      "openInterest": null,
+      "rangePosition": 0.938,
+      "rangeLabel": "PREMIUM",
+      "structure": {
+        "event": "BOS_up",
+        "ageBars": 1,
+        "level": 0.03125
+      },
+      "liquiditySweep": {
+        "type": "bullish",
+        "level": 0.03067,
+        "barsAgo": 4
+      },
+      "bos": true,
+      "choch": false,
+      "displacement": true,
+      "fvg": null,
+      "orderBlock": {
+        "bottom": 0.03045,
+        "top": 0.03116,
+        "fresh": false,
+        "mitigatedBarsAgo": 0
+      },
+      "rsi": 55.06,
+      "adx": 22.74,
+      "atr": 0.0006745561,
+      "atrPercent": 2.162,
+      "relativeVolume": 3.715,
+      "vwap": 0.0309023228,
+      "status": "WAITING_TRIGGER",
+      "expiryAt": 1795248060501,
+      "tradeMaxDurationMs": 14400000,
+      "triggeredAt": null,
+      "closedAt": null,
+      "outcome": null,
+      "rMultiple": null,
+      "dataSource": "binance-futures-mirror",
+      "updatedAt": 1795237260501
+    }
+  ]
 }
