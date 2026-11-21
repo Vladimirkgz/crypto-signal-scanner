@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795244460530,
+  "generatedAt": 1795245340675,
   "signals": [
     {
       "id": "SIG-a6e1d5c4aa",
@@ -25,8 +25,8 @@
         0.0323701776,
         0.0327074556
       ],
-      "currentPrice": 0.03118,
-      "currentPriceAt": 1795244399999,
+      "currentPrice": 0.03167,
+      "currentPriceAt": 1795245299999,
       "currentPriceSource": "scan",
       "stopLoss": 0.030102722,
       "takeProfit": 0.03933,
@@ -77,7 +77,7 @@
       "outcome": null,
       "rMultiple": null,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795244460530
+      "updatedAt": 1795245340675
     }
   ]
 }
