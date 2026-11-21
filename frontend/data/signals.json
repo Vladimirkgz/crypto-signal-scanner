@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795248059334,
+  "generatedAt": 1795248585545,
   "signals": [
     {
       "id": "SIG-a6e1d5c4aa",
@@ -77,7 +77,7 @@
       "outcome": null,
       "rMultiple": null,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795248059334
+      "updatedAt": 1795248585545
     }
   ]
 }
