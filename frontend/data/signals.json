@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795263341612,
+  "generatedAt": 1795264250221,
   "signals": [
     {
       "id": "SIG-a6e1d5c4aa",
@@ -25,8 +25,8 @@
         0.0323701776,
         0.0327074556
       ],
-      "currentPrice": 0.0338,
-      "currentPriceAt": 1795263299999,
+      "currentPrice": 0.03383,
+      "currentPriceAt": 1795264199999,
       "currentPriceSource": "scan",
       "stopLoss": 0.030102722,
       "takeProfit": 0.03933,
