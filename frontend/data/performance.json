@@ -1,7 +1,7 @@
 {
-  "total": 7,
-  "waiting": 4,
-  "triggered": 2,
+  "total": 10,
+  "waiting": 3,
+  "triggered": 6,
   "wins": 0,
   "losses": 0,
   "expired": 1,
@@ -9,10 +9,10 @@
   "cancelled": 0,
   "winRate": null,
   "resolvedTrades": 0,
-  "avgRr": 3.486,
+  "avgRr": 3.353,
   "avgWinR": null,
   "profitFactor": null,
-  "avgScore": 87.6,
+  "avgScore": 88.2,
   "avgTimeToTpMs": null,
   "avgTimeToSlMs": null,
   "expectancyR": null,
@@ -20,7 +20,7 @@
   "slippage": {
     "avgPct": 0.0,
     "maxPct": 0.0,
-    "fills": 2
+    "fills": 6
   },
   "costsModelled": false,
   "avgCostR": null,
@@ -36,7 +36,7 @@
   "monteCarlo": null,
   "scoreCalibration": {
     "A+": {
-      "signals": 3,
+      "signals": 5,
       "resolved": 0,
       "wins": 0,
       "losses": 0,
@@ -47,7 +47,7 @@
       }
     },
     "A": {
-      "signals": 2,
+      "signals": 3,
       "resolved": 0,
       "wins": 0,
       "losses": 0,
@@ -104,8 +104,43 @@
       "profitFactorNet": null
     },
     "SHORT": {
-      "total": 6,
-      "waiting": 4,
+      "total": 9,
+      "waiting": 3,
+      "triggered": 6,
+      "wins": 0,
+      "losses": 0,
+      "expired": 0,
+      "ambiguous": 0,
+      "cancelled": 0,
+      "winRate": null,
+      "resolvedTrades": 0,
+      "avgRr": 3.443,
+      "avgWinR": null,
+      "profitFactor": null,
+      "avgScore": 89.0,
+      "avgTimeToTpMs": null,
+      "avgTimeToSlMs": null,
+      "expectancyR": null,
+      "sharpeR": null,
+      "slippage": {
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 6
+      },
+      "costsModelled": false,
+      "avgCostR": null,
+      "totalCostR": null,
+      "netWins": null,
+      "netLosses": null,
+      "winRateNet": null,
+      "expectancyNetR": null,
+      "profitFactorNet": null
+    }
+  },
+  "byQuality": {
+    "A": {
+      "total": 3,
+      "waiting": 1,
       "triggered": 2,
       "wins": 0,
       "losses": 0,
@@ -114,10 +149,10 @@
       "cancelled": 0,
       "winRate": null,
       "resolvedTrades": 0,
-      "avgRr": 3.644,
+      "avgRr": 3.172,
       "avgWinR": null,
       "profitFactor": null,
-      "avgScore": 88.7,
+      "avgScore": 87.5,
       "avgTimeToTpMs": null,
       "avgTimeToSlMs": null,
       "expectancyR": null,
@@ -135,13 +170,11 @@
       "winRateNet": null,
       "expectancyNetR": null,
       "profitFactorNet": null
-    }
-  },
-  "byQuality": {
-    "A": {
-      "total": 2,
-      "waiting": 1,
-      "triggered": 1,
+    },
+    "A+": {
+      "total": 5,
+      "waiting": 2,
+      "triggered": 3,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -149,10 +182,10 @@
       "cancelled": 0,
       "winRate": null,
       "resolvedTrades": 0,
-      "avgRr": 3.511,
+      "avgRr": 3.152,
       "avgWinR": null,
       "profitFactor": null,
-      "avgScore": 87.5,
+      "avgScore": 91.5,
       "avgTimeToTpMs": null,
       "avgTimeToSlMs": null,
       "expectancyR": null,
@@ -160,40 +193,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 1
-      },
-      "costsModelled": false,
-      "avgCostR": null,
-      "totalCostR": null,
-      "netWins": null,
-      "netLosses": null,
-      "winRateNet": null,
-      "expectancyNetR": null,
-      "profitFactorNet": null
-    },
-    "A+": {
-      "total": 3,
-      "waiting": 3,
-      "triggered": 0,
-      "wins": 0,
-      "losses": 0,
-      "expired": 0,
-      "ambiguous": 0,
-      "cancelled": 0,
-      "winRate": null,
-      "resolvedTrades": 0,
-      "avgRr": 3.044,
-      "avgWinR": null,
-      "profitFactor": null,
-      "avgScore": 92.1,
-      "avgTimeToTpMs": null,
-      "avgTimeToSlMs": null,
-      "expectancyR": null,
-      "sharpeR": null,
-      "slippage": {
-        "avgPct": null,
-        "maxPct": null,
-        "fills": 0
+        "fills": 3
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -240,9 +240,9 @@
   },
   "byRegime": {
     "TRENDING_DOWN": {
-      "total": 6,
-      "waiting": 4,
-      "triggered": 2,
+      "total": 9,
+      "waiting": 3,
+      "triggered": 6,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -250,10 +250,10 @@
       "cancelled": 0,
       "winRate": null,
       "resolvedTrades": 0,
-      "avgRr": 3.644,
+      "avgRr": 3.443,
       "avgWinR": null,
       "profitFactor": null,
-      "avgScore": 88.7,
+      "avgScore": 89.0,
       "avgTimeToTpMs": null,
       "avgTimeToSlMs": null,
       "expectancyR": null,
@@ -261,7 +261,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 2
+        "fills": 6
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -309,6 +309,72 @@
   "bySymbol": {
     "1000PEPEUSDT": {
       "total": 1,
+      "waiting": 0,
+      "triggered": 1,
+      "wins": 0,
+      "losses": 0,
+      "expired": 0,
+      "ambiguous": 0,
+      "cancelled": 0,
+      "winRate": null,
+      "resolvedTrades": 0,
+      "avgRr": 2.662,
+      "avgWinR": null,
+      "profitFactor": null,
+      "avgScore": 91.3,
+      "avgTimeToTpMs": null,
+      "avgTimeToSlMs": null,
+      "expectancyR": null,
+      "sharpeR": null,
+      "slippage": {
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 1
+      },
+      "costsModelled": false,
+      "avgCostR": null,
+      "totalCostR": null,
+      "netWins": null,
+      "netLosses": null,
+      "winRateNet": null,
+      "expectancyNetR": null,
+      "profitFactorNet": null
+    },
+    "AVAXUSDT": {
+      "total": 1,
+      "waiting": 0,
+      "triggered": 1,
+      "wins": 0,
+      "losses": 0,
+      "expired": 0,
+      "ambiguous": 0,
+      "cancelled": 0,
+      "winRate": null,
+      "resolvedTrades": 0,
+      "avgRr": 3.096,
+      "avgWinR": null,
+      "profitFactor": null,
+      "avgScore": 87.1,
+      "avgTimeToTpMs": null,
+      "avgTimeToSlMs": null,
+      "expectancyR": null,
+      "sharpeR": null,
+      "slippage": {
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 1
+      },
+      "costsModelled": false,
+      "avgCostR": null,
+      "totalCostR": null,
+      "netWins": null,
+      "netLosses": null,
+      "winRateNet": null,
+      "expectancyNetR": null,
+      "profitFactorNet": null
+    },
+    "BCHUSDT": {
+      "total": 1,
       "waiting": 1,
       "triggered": 0,
       "wins": 0,
@@ -318,7 +384,7 @@
       "cancelled": 0,
       "winRate": null,
       "resolvedTrades": 0,
-      "avgRr": 2.662,
+      "avgRr": 3.039,
       "avgWinR": null,
       "profitFactor": null,
       "avgScore": 91.3,
@@ -340,43 +406,10 @@
       "expectancyNetR": null,
       "profitFactorNet": null
     },
-    "AVAXUSDT": {
-      "total": 1,
-      "waiting": 1,
-      "triggered": 0,
-      "wins": 0,
-      "losses": 0,
-      "expired": 0,
-      "ambiguous": 0,
-      "cancelled": 0,
-      "winRate": null,
-      "resolvedTrades": 0,
-      "avgRr": 3.096,
-      "avgWinR": null,
-      "profitFactor": null,
-      "avgScore": 87.1,
-      "avgTimeToTpMs": null,
-      "avgTimeToSlMs": null,
-      "expectancyR": null,
-      "sharpeR": null,
-      "slippage": {
-        "avgPct": null,
-        "maxPct": null,
-        "fills": 0
-      },
-      "costsModelled": false,
-      "avgCostR": null,
-      "totalCostR": null,
-      "netWins": null,
-      "netLosses": null,
-      "winRateNet": null,
-      "expectancyNetR": null,
-      "profitFactorNet": null
-    },
     "DOGEUSDT": {
       "total": 1,
-      "waiting": 1,
-      "triggered": 0,
+      "waiting": 0,
+      "triggered": 1,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -393,9 +426,9 @@
       "expectancyR": null,
       "sharpeR": null,
       "slippage": {
-        "avgPct": null,
-        "maxPct": null,
-        "fills": 0
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 1
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -441,8 +474,8 @@
     },
     "ETCUSDT": {
       "total": 1,
-      "waiting": 1,
-      "triggered": 0,
+      "waiting": 0,
+      "triggered": 1,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -459,9 +492,9 @@
       "expectancyR": null,
       "sharpeR": null,
       "slippage": {
-        "avgPct": null,
-        "maxPct": null,
-        "fills": 0
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 1
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -537,13 +570,11 @@
       "winRateNet": null,
       "expectancyNetR": null,
       "profitFactorNet": null
-    }
-  },
-  "byScoreRange": {
-    "A": {
-      "total": 2,
+    },
+    "PENGUUSDT": {
+      "total": 1,
       "waiting": 1,
-      "triggered": 1,
+      "triggered": 0,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -551,7 +582,75 @@
       "cancelled": 0,
       "winRate": null,
       "resolvedTrades": 0,
-      "avgRr": 3.511,
+      "avgRr": 2.494,
+      "avgWinR": null,
+      "profitFactor": null,
+      "avgScore": 87.5,
+      "avgTimeToTpMs": null,
+      "avgTimeToSlMs": null,
+      "expectancyR": null,
+      "sharpeR": null,
+      "slippage": {
+        "avgPct": null,
+        "maxPct": null,
+        "fills": 0
+      },
+      "costsModelled": false,
+      "avgCostR": null,
+      "totalCostR": null,
+      "netWins": null,
+      "netLosses": null,
+      "winRateNet": null,
+      "expectancyNetR": null,
+      "profitFactorNet": null
+    },
+    "XRPUSDT": {
+      "total": 1,
+      "waiting": 1,
+      "triggered": 0,
+      "wins": 0,
+      "losses": 0,
+      "expired": 0,
+      "ambiguous": 0,
+      "cancelled": 0,
+      "winRate": null,
+      "resolvedTrades": 0,
+      "avgRr": 3.591,
+      "avgWinR": null,
+      "profitFactor": null,
+      "avgScore": 90.0,
+      "avgTimeToTpMs": null,
+      "avgTimeToSlMs": null,
+      "expectancyR": null,
+      "sharpeR": null,
+      "slippage": {
+        "avgPct": null,
+        "maxPct": null,
+        "fills": 0
+      },
+      "costsModelled": false,
+      "avgCostR": null,
+      "totalCostR": null,
+      "netWins": null,
+      "netLosses": null,
+      "winRateNet": null,
+      "expectancyNetR": null,
+      "profitFactorNet": null
+    }
+  },
+  "byScoreRange": {
+    "A": {
+      "total": 3,
+      "waiting": 1,
+      "triggered": 2,
+      "wins": 0,
+      "losses": 0,
+      "expired": 0,
+      "ambiguous": 0,
+      "cancelled": 0,
+      "winRate": null,
+      "resolvedTrades": 0,
+      "avgRr": 3.172,
       "avgWinR": null,
       "profitFactor": null,
       "avgScore": 87.5,
@@ -562,7 +661,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 1
+        "fills": 2
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -574,9 +673,9 @@
       "profitFactorNet": null
     },
     "A+": {
-      "total": 3,
-      "waiting": 3,
-      "triggered": 0,
+      "total": 5,
+      "waiting": 2,
+      "triggered": 3,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -584,18 +683,18 @@
       "cancelled": 0,
       "winRate": null,
       "resolvedTrades": 0,
-      "avgRr": 3.044,
+      "avgRr": 3.152,
       "avgWinR": null,
       "profitFactor": null,
-      "avgScore": 92.1,
+      "avgScore": 91.5,
       "avgTimeToTpMs": null,
       "avgTimeToSlMs": null,
       "expectancyR": null,
       "sharpeR": null,
       "slippage": {
-        "avgPct": null,
-        "maxPct": null,
-        "fills": 0
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 3
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -643,8 +742,8 @@
   "window": {
     "since": null,
     "until": null,
-    "signalsInWindow": 7
+    "signalsInWindow": 10
   },
-  "generatedAt": 1795315541973,
+  "generatedAt": 1795316461872,
   "disclaimer": "Win rate = wins / (wins + losses); waiting/expired/ambiguous/cancelled signals are excluded from the denominator. Gross figures (winRate, expectancyR, profitFactor, sharpeR, monteCarlo) EXCLUDE fees and funding; the *Net figures include them and are the ones to read. The confluence score is a quality ranking, not a probability. Past performance does not guarantee future results."
 }
