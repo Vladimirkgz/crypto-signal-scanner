@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795330860795,
+  "generatedAt": 1795331736095,
   "signals": [
     {
       "id": "SIG-a6e1d5c4aa",
@@ -25,8 +25,8 @@
         0.0323701776,
         0.0327074556
       ],
-      "currentPrice": 0.03482,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.03488,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.030102722,
       "takeProfit": 0.03933,
@@ -103,8 +103,8 @@
         0.2803708318,
         0.2810166729
       ],
-      "currentPrice": 0.2773,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.2767,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.2837458412,
       "takeProfit": 0.2611,
@@ -183,8 +183,8 @@
         0.6488453784,
         0.6501184863
       ],
-      "currentPrice": 0.6438,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.6421,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.6563731078,
       "takeProfit": 0.6193,
@@ -263,8 +263,8 @@
         0.0545324229,
         0.0546203084
       ],
-      "currentPrice": 0.05418,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.05415,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0550478855,
       "takeProfit": 0.05286,
@@ -348,8 +348,8 @@
         0.0033740276,
         0.0033828896
       ],
-      "currentPrice": 0.0033324,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.0033209,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.003451462,
       "takeProfit": 0.0031679,
@@ -434,7 +434,7 @@
         6.5382059105
       ],
       "currentPrice": 6.513,
-      "currentPriceAt": 1795330799999,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 6.5815073882,
       "takeProfit": 6.357,
@@ -513,8 +513,8 @@
         5.4383864413,
         5.4464542347
       ],
-      "currentPrice": 5.453,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 5.442,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 5.5020677934,
       "takeProfit": 5.233,
@@ -593,8 +593,8 @@
         0.9197721768,
         0.9214112928
       ],
-      "currentPrice": 0.9155,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.9145,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.934439116,
       "takeProfit": 0.8671,
@@ -637,15 +637,17 @@
       "atrPercent": 0.3557,
       "relativeVolume": 2.329,
       "vwap": 0.9298047519,
-      "status": "TRIGGERED",
+      "status": "CANCELLED",
       "expiryAt": 1795327261872,
       "tradeMaxDurationMs": 14400000,
       "triggeredAt": 1795316400000,
-      "closedAt": null,
-      "outcome": null,
-      "rMultiple": null,
+      "closedAt": 1795331699999,
+      "outcome": "max_holding_duration_exceeded",
+      "rMultiple": 0.3595,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795330860795
+      "updatedAt": 1795331736095,
+      "costR": 0.062711,
+      "rMultipleNet": 0.2968
     },
     {
       "id": "SIG-5b75b2ae5f",
@@ -671,8 +673,8 @@
         197.3032012553,
         197.6871949788
       ],
-      "currentPrice": 195.44,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 195.06,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 200.4339937235,
       "takeProfit": 187.79,
@@ -720,15 +722,17 @@
       "atrPercent": 0.3884,
       "relativeVolume": 1.626,
       "vwap": 198.8630720369,
-      "status": "TRIGGERED",
+      "status": "CANCELLED",
       "expiryAt": 1795327261872,
       "tradeMaxDurationMs": 14400000,
       "triggeredAt": 1795316400000,
-      "closedAt": null,
-      "outcome": null,
-      "rMultiple": null,
+      "closedAt": 1795331699999,
+      "outcome": "max_holding_duration_exceeded",
+      "rMultiple": 0.7165,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795330860795
+      "updatedAt": 1795331736095,
+      "costR": 0.06302,
+      "rMultipleNet": 0.6535
     },
     {
       "id": "SIG-d495afe5e6",
@@ -754,8 +758,8 @@
         0.0042070626,
         0.0042167495
       ],
-      "currentPrice": 0.004215,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.004193,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0042896869,
       "takeProfit": 0.004001,
@@ -798,15 +802,17 @@
       "atrPercent": 0.4576,
       "relativeVolume": 3.555,
       "vwap": 0.0043098991,
-      "status": "TRIGGERED",
+      "status": "CANCELLED",
       "expiryAt": 1795327261872,
       "tradeMaxDurationMs": 14400000,
       "triggeredAt": 1795316400000,
-      "closedAt": null,
-      "outcome": null,
-      "rMultiple": null,
+      "closedAt": 1795331699999,
+      "outcome": "max_holding_duration_exceeded",
+      "rMultiple": 0.1702,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795330860795
+      "updatedAt": 1795331736095,
+      "costR": 0.050918,
+      "rMultipleNet": 0.1193
     },
     {
       "id": "SIG-bca3ab88c0",
@@ -832,8 +838,8 @@
         39.2954269408,
         39.368292237
       ],
-      "currentPrice": 39.01,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 38.99,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 39.7428652962,
       "takeProfit": 37.79,
@@ -889,7 +895,7 @@
       "outcome": null,
       "rMultiple": null,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795330860795
+      "updatedAt": 1795331736095
     },
     {
       "id": "SIG-0cee68318d",
@@ -915,8 +921,8 @@
         0.2154958194,
         0.2177510452
       ],
-      "currentPrice": 0.2084,
-      "currentPriceAt": 1795330799999,
+      "currentPrice": 0.2165,
+      "currentPriceAt": 1795331699999,
       "currentPriceSource": "scan",
       "stopLoss": 0.2007447742,
       "takeProfit": 0.2692,
@@ -967,7 +973,7 @@
       "outcome": null,
       "rMultiple": null,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795330860795
+      "updatedAt": 1795331736095
     }
   ]
 }
