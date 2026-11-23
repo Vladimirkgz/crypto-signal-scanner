@@ -1,71 +1,5 @@
 [
   {
-    "ts": 1795173511116,
-    "universeSize": 100,
-    "source": "binance-futures-mirror",
-    "breadth": {
-      "TRENDING_UP": 16,
-      "TRENDING_DOWN": 63,
-      "RANGING": 16,
-      "MIXED": 5
-    },
-    "activeSignals": 0,
-    "signalsGenerated": 0,
-    "avgScore": null,
-    "topVolume": [
-      {
-        "symbol": "BTCUSDT",
-        "quoteVolume": 17963519726.26,
-        "rank": 1
-      },
-      {
-        "symbol": "ETHUSDT",
-        "quoteVolume": 9932828794.46,
-        "rank": 2
-      },
-      {
-        "symbol": "SOLUSDT",
-        "quoteVolume": 1667797147.73,
-        "rank": 3
-      },
-      {
-        "symbol": "ZECUSDT",
-        "quoteVolume": 1352320978.99,
-        "rank": 4
-      },
-      {
-        "symbol": "XRPUSDT",
-        "quoteVolume": 678143770.1,
-        "rank": 5
-      },
-      {
-        "symbol": "HYPEUSDT",
-        "quoteVolume": 626301122.27,
-        "rank": 6
-      },
-      {
-        "symbol": "MMTUSDT",
-        "quoteVolume": 537885455.33,
-        "rank": 7
-      },
-      {
-        "symbol": "EVAAUSDT",
-        "quoteVolume": 471126715.69,
-        "rank": 8
-      },
-      {
-        "symbol": "NEARUSDT",
-        "quoteVolume": 364463241.53,
-        "rank": 9
-      },
-      {
-        "symbol": "1000PEPEUSDT",
-        "quoteVolume": 360739524.8,
-        "rank": 10
-      }
-    ]
-  },
-  {
     "ts": 1795174249410,
     "universeSize": 100,
     "source": "binance-futures-mirror",
@@ -19003,6 +18937,72 @@
       {
         "symbol": "NEARUSDT",
         "quoteVolume": 276708556.64,
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "ts": 1795423535854,
+    "universeSize": 100,
+    "source": "binance-futures-mirror",
+    "breadth": {
+      "TRENDING_UP": 15,
+      "TRENDING_DOWN": 71,
+      "RANGING": 9,
+      "MIXED": 5
+    },
+    "activeSignals": 0,
+    "signalsGenerated": 0,
+    "avgScore": null,
+    "topVolume": [
+      {
+        "symbol": "BTCUSDT",
+        "quoteVolume": 12457959982.79,
+        "rank": 1
+      },
+      {
+        "symbol": "ETHUSDT",
+        "quoteVolume": 6546259408.86,
+        "rank": 2
+      },
+      {
+        "symbol": "SOLUSDT",
+        "quoteVolume": 1020777978.0,
+        "rank": 3
+      },
+      {
+        "symbol": "ZECUSDT",
+        "quoteVolume": 861686848.81,
+        "rank": 4
+      },
+      {
+        "symbol": "PIEVERSEUSDT",
+        "quoteVolume": 849711503.95,
+        "rank": 5
+      },
+      {
+        "symbol": "EVAAUSDT",
+        "quoteVolume": 628709151.21,
+        "rank": 6
+      },
+      {
+        "symbol": "XRPUSDT",
+        "quoteVolume": 473493587.43,
+        "rank": 7
+      },
+      {
+        "symbol": "BLESSUSDT",
+        "quoteVolume": 386386317.49,
+        "rank": 8
+      },
+      {
+        "symbol": "HYPEUSDT",
+        "quoteVolume": 320140252.24,
+        "rank": 9
+      },
+      {
+        "symbol": "NEARUSDT",
+        "quoteVolume": 272457204.75,
         "rank": 10
       }
     ]
