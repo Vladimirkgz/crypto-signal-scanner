@@ -3,10 +3,10 @@
   "health": "HEALTHY",
   "version": "1.1.0",
   "lastScan": {
-    "scheduledAt": 1795598100000,
-    "executedAt": 1795598139980,
-    "jitterSeconds": 40.0,
-    "durationMs": 73440,
+    "scheduledAt": 1795599000000,
+    "executedAt": 1795599051017,
+    "jitterSeconds": 51.0,
+    "durationMs": 91330,
     "status": "OK",
     "universeSize": 100,
     "universeSource": "binance-futures-mirror",
@@ -15,21 +15,19 @@
     "symbolsValid": 100,
     "dataFailures": 0,
     "failedSymbols": [],
-    "candidates": 2,
+    "candidates": 0,
     "signalsGenerated": 0,
     "rejects": {
       "htf_conflict": 80,
-      "volume_thin": 24,
+      "volume_thin": 40,
       "regime_ranging": 21,
+      "no_liquidity_sweep": 4,
       "momentum_adx_low": 4,
-      "volatility_out_of_band": 6,
-      "momentum_rsi_out_of_band": 10,
+      "volatility_out_of_band": 5,
+      "momentum_rsi_out_of_band": 9,
       "htf_not_aligned": 30,
-      "risk_model_rejected": 2,
-      "no_displacement": 6,
-      "no_liquidity_sweep": 8,
-      "no_structure_event": 7,
-      "no_fvg_or_order_block": 2
+      "no_displacement": 4,
+      "no_structure_event": 3
     },
     "rejectFunnel": [
       {
@@ -46,7 +44,7 @@
       },
       {
         "stage": "volatility_out_of_band",
-        "rejected": 6
+        "rejected": 5
       },
       {
         "stage": "momentum_adx_low",
@@ -54,31 +52,23 @@
       },
       {
         "stage": "momentum_rsi_out_of_band",
-        "rejected": 10
+        "rejected": 9
       },
       {
         "stage": "volume_thin",
-        "rejected": 24
+        "rejected": 40
       },
       {
         "stage": "no_liquidity_sweep",
-        "rejected": 8
+        "rejected": 4
       },
       {
         "stage": "no_structure_event",
-        "rejected": 7
+        "rejected": 3
       },
       {
         "stage": "no_displacement",
-        "rejected": 6
-      },
-      {
-        "stage": "no_fvg_or_order_block",
-        "rejected": 2
-      },
-      {
-        "stage": "risk_model_rejected",
-        "rejected": 2
+        "rejected": 4
       }
     ],
     "apiStats": {
@@ -93,109 +83,14 @@
     "apiHealth": "DEGRADED",
     "dataFreshness": {
       "label": "LIVE",
-      "newestCandleCloseMs": 1795598099999,
-      "ageSeconds": 40.0
+      "newestCandleCloseMs": 1795598999999,
+      "ageSeconds": 51.0
     },
     "activeSignals": 0
   },
-  "lastSuccessfulScan": 1795598139980,
-  "nextExpectedScanAt": 1795599000000,
+  "lastSuccessfulScan": 1795599051017,
+  "nextExpectedScanAt": 1795599900000,
   "logs": [
-    {
-      "ts": 1795589250986,
-      "level": "info",
-      "msg": "rejected 3x no_liquidity_sweep (e.g. no liquidity sweep in window)"
-    },
-    {
-      "ts": 1795589250986,
-      "level": "info",
-      "msg": "rejected 3x no_structure_event (e.g. no CHoCH/BOS after sweep)"
-    },
-    {
-      "ts": 1795589250986,
-      "level": "info",
-      "msg": "rejected 1x risk_model_rejected (e.g. risk model rejected: stop too wide (5.82x ATR))"
-    },
-    {
-      "ts": 1795589250986,
-      "level": "info",
-      "msg": "no qualifying setups this scan -- zero signals generated"
-    },
-    {
-      "ts": 1795590061600,
-      "level": "info",
-      "msg": "scan start v1.1.0 scheduled=1795590000000 actual=1795590061596 (jitter 61.6s)"
-    },
-    {
-      "ts": 1795590071602,
-      "level": "info",
-      "msg": "universe: 100 symbols selected from 518 USDT perp candidates (binance-futures-mirror)"
-    },
-    {
-      "ts": 1795590089069,
-      "level": "info",
-      "msg": "klines collected for 20/100 symbols"
-    },
-    {
-      "ts": 1795590105418,
-      "level": "info",
-      "msg": "klines collected for 40/100 symbols"
-    },
-    {
-      "ts": 1795590122003,
-      "level": "info",
-      "msg": "klines collected for 60/100 symbols"
-    },
-    {
-      "ts": 1795590138919,
-      "level": "info",
-      "msg": "klines collected for 80/100 symbols"
-    },
-    {
-      "ts": 1795590155854,
-      "level": "info",
-      "msg": "klines collected for 100/100 symbols"
-    },
-    {
-      "ts": 1795590156099,
-      "level": "info",
-      "msg": "derivatives: funding rates for 959 symbols"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 80x htf_conflict (e.g. HTF conflict (4H=strong_bearish,1H=strong_bearish))"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 32x htf_not_aligned (e.g. HTF not aligned (4H=strong_bearish,1H=neutral))"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 29x volume_thin (e.g. relVol 0.68 < 1.2)"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 17x regime_ranging (e.g. 4H regime RANGING)"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 16x momentum_rsi_out_of_band (e.g. RSI 56.9 outside [26,55])"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 10x momentum_adx_low (e.g. ADX 12.1 < 15 and not emerging)"
-    },
-    {
-      "ts": 1795590160349,
-      "level": "info",
-      "msg": "rejected 5x no_structure_event (e.g. no CHoCH/BOS after sweep)"
-    },
     {
       "ts": 1795590160349,
       "level": "info",
@@ -1098,6 +993,101 @@
     },
     {
       "ts": 1795598213419,
+      "level": "info",
+      "msg": "no qualifying setups this scan -- zero signals generated"
+    },
+    {
+      "ts": 1795599051019,
+      "level": "info",
+      "msg": "scan start v1.1.0 scheduled=1795599000000 actual=1795599051017 (jitter 51.0s)"
+    },
+    {
+      "ts": 1795599061247,
+      "level": "info",
+      "msg": "universe: 100 symbols selected from 518 USDT perp candidates (binance-futures-mirror)"
+    },
+    {
+      "ts": 1795599076911,
+      "level": "info",
+      "msg": "klines collected for 20/100 symbols"
+    },
+    {
+      "ts": 1795599091688,
+      "level": "info",
+      "msg": "klines collected for 40/100 symbols"
+    },
+    {
+      "ts": 1795599106884,
+      "level": "info",
+      "msg": "klines collected for 60/100 symbols"
+    },
+    {
+      "ts": 1795599121086,
+      "level": "info",
+      "msg": "klines collected for 80/100 symbols"
+    },
+    {
+      "ts": 1795599136735,
+      "level": "info",
+      "msg": "klines collected for 100/100 symbols"
+    },
+    {
+      "ts": 1795599136922,
+      "level": "info",
+      "msg": "derivatives: funding rates for 959 symbols"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 80x htf_conflict (e.g. HTF conflict (4H=strong_bearish,1H=strong_bearish))"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 40x volume_thin (e.g. relVol 0.98 < 1.2)"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 30x htf_not_aligned (e.g. HTF not aligned (4H=bearish,1H=strong_bullish))"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 21x regime_ranging (e.g. 4H regime RANGING)"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 9x momentum_rsi_out_of_band (e.g. RSI 43.2 outside [45,74])"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 5x volatility_out_of_band (e.g. volatility out of band (4.457%))"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 4x no_liquidity_sweep (e.g. no liquidity sweep in window)"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 4x momentum_adx_low (e.g. ADX 13.0 < 15 and not emerging)"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 4x no_displacement (e.g. no displacement after structure event)"
+    },
+    {
+      "ts": 1795599142347,
+      "level": "info",
+      "msg": "rejected 3x no_structure_event (e.g. no CHoCH/BOS after sweep)"
+    },
+    {
+      "ts": 1795599142347,
       "level": "info",
       "msg": "no qualifying setups this scan -- zero signals generated"
     }
