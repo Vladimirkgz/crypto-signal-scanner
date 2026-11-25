@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795616925666,
+  "generatedAt": 1795617051760,
   "signals": [
     {
       "id": "SIG-a6e1d5c4aa",
@@ -103,8 +103,8 @@
         0.2803708318,
         0.2810166729
       ],
-      "currentPrice": 0.2645,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.2647,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.2837458412,
       "takeProfit": 0.2611,
@@ -183,8 +183,8 @@
         0.6488453784,
         0.6501184863
       ],
-      "currentPrice": 0.6268,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.6275,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.6563731078,
       "takeProfit": 0.6193,
@@ -263,8 +263,8 @@
         0.0545324229,
         0.0546203084
       ],
-      "currentPrice": 0.05309,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.05298,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0550478855,
       "takeProfit": 0.05286,
@@ -348,8 +348,8 @@
         0.0033740276,
         0.0033828896
       ],
-      "currentPrice": 0.0033383,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.0033434,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.003451462,
       "takeProfit": 0.0031679,
@@ -433,8 +433,8 @@
         6.5266985224,
         6.5382059105
       ],
-      "currentPrice": 6.345,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 6.334,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 6.5815073882,
       "takeProfit": 6.357,
@@ -593,8 +593,8 @@
         0.9197721768,
         0.9214112928
       ],
-      "currentPrice": 0.9007,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.9004,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.934439116,
       "takeProfit": 0.8671,
@@ -673,8 +673,8 @@
         197.3032012553,
         197.6871949788
       ],
-      "currentPrice": 193.66,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 192.89,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 200.4339937235,
       "takeProfit": 187.79,
@@ -758,8 +758,8 @@
         0.0042070626,
         0.0042167495
       ],
-      "currentPrice": 0.004072,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.004062,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0042896869,
       "takeProfit": 0.004001,
@@ -838,8 +838,8 @@
         39.2954269408,
         39.368292237
       ],
-      "currentPrice": 40.0,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 39.9,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 39.7428652962,
       "takeProfit": 37.79,
@@ -923,8 +923,8 @@
         0.2154958194,
         0.2177510452
       ],
-      "currentPrice": 0.2744,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 0.2793,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 0.2007447742,
       "takeProfit": 0.2692,
@@ -1083,8 +1083,8 @@
         1.2011113998,
         1.2055544006
       ],
-      "currentPrice": 1.215,
-      "currentPriceAt": 1795616099999,
+      "currentPrice": 1.214,
+      "currentPriceAt": 1795616999999,
       "currentPriceSource": "scan",
       "stopLoss": 1.2284430008,
       "takeProfit": 1.126,
@@ -1140,7 +1140,7 @@
       "outcome": null,
       "rMultiple": null,
       "dataSource": "binance-futures-mirror",
-      "updatedAt": 1795616925666
+      "updatedAt": 1795617051760
     }
   ]
 }
