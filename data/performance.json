@@ -1,7 +1,7 @@
 {
   "total": 16,
-  "waiting": 1,
-  "triggered": 13,
+  "waiting": 0,
+  "triggered": 14,
   "wins": 0,
   "losses": 1,
   "expired": 2,
@@ -20,7 +20,7 @@
   "slippage": {
     "avgPct": 0.0,
     "maxPct": 0.0,
-    "fills": 13
+    "fills": 14
   },
   "costsModelled": true,
   "avgCostR": 0.0439,
@@ -105,8 +105,8 @@
     },
     "SHORT": {
       "total": 14,
-      "waiting": 1,
-      "triggered": 12,
+      "waiting": 0,
+      "triggered": 13,
       "wins": 0,
       "losses": 1,
       "expired": 1,
@@ -125,7 +125,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 12
+        "fills": 13
       },
       "costsModelled": true,
       "avgCostR": 0.0439,
@@ -206,8 +206,8 @@
     },
     "B+": {
       "total": 6,
-      "waiting": 1,
-      "triggered": 3,
+      "waiting": 0,
+      "triggered": 4,
       "wins": 0,
       "losses": 0,
       "expired": 2,
@@ -226,7 +226,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 3
+        "fills": 4
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -241,8 +241,8 @@
   "byRegime": {
     "TRENDING_DOWN": {
       "total": 14,
-      "waiting": 1,
-      "triggered": 12,
+      "waiting": 0,
+      "triggered": 13,
       "wins": 0,
       "losses": 1,
       "expired": 1,
@@ -261,7 +261,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 12
+        "fills": 13
       },
       "costsModelled": true,
       "avgCostR": 0.0439,
@@ -804,8 +804,8 @@
     },
     "ZROUSDT": {
       "total": 1,
-      "waiting": 1,
-      "triggered": 0,
+      "waiting": 0,
+      "triggered": 1,
       "wins": 0,
       "losses": 0,
       "expired": 0,
@@ -822,9 +822,9 @@
       "expectancyR": null,
       "sharpeR": null,
       "slippage": {
-        "avgPct": null,
-        "maxPct": null,
-        "fills": 0
+        "avgPct": 0.0,
+        "maxPct": 0.0,
+        "fills": 1
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -905,8 +905,8 @@
     },
     "B+": {
       "total": 6,
-      "waiting": 1,
-      "triggered": 3,
+      "waiting": 0,
+      "triggered": 4,
       "wins": 0,
       "losses": 0,
       "expired": 2,
@@ -925,7 +925,7 @@
       "slippage": {
         "avgPct": 0.0,
         "maxPct": 0.0,
-        "fills": 3
+        "fills": 4
       },
       "costsModelled": false,
       "avgCostR": null,
@@ -942,6 +942,6 @@
     "until": null,
     "signalsInWindow": 16
   },
-  "generatedAt": 1795705264539,
+  "generatedAt": 1795706138257,
   "disclaimer": "Win rate = wins / (wins + losses); waiting/expired/ambiguous/cancelled signals are excluded from the denominator. Gross figures (winRate, expectancyR, profitFactor, sharpeR, monteCarlo) EXCLUDE fees and funding; the *Net figures include them and are the ones to read. The confluence score is a quality ranking, not a probability. Past performance does not guarantee future results."
 }
