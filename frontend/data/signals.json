@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795752058784,
+  "generatedAt": 1795752939309,
   "signals": [
     {
       "id": "SIG-a6e1d5c4aa",
@@ -103,8 +103,8 @@
         0.2803708318,
         0.2810166729
       ],
-      "currentPrice": 0.2927,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.2933,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.2837458412,
       "takeProfit": 0.2611,
@@ -183,8 +183,8 @@
         0.6488453784,
         0.6501184863
       ],
-      "currentPrice": 0.6873,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.6877,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.6563731078,
       "takeProfit": 0.6193,
@@ -264,7 +264,7 @@
         0.0546203084
       ],
       "currentPrice": 0.0577,
-      "currentPriceAt": 1795751999999,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0550478855,
       "takeProfit": 0.05286,
@@ -348,8 +348,8 @@
         0.0033740276,
         0.0033828896
       ],
-      "currentPrice": 0.003591,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.0035828,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.003451462,
       "takeProfit": 0.0031679,
@@ -433,8 +433,8 @@
         6.5266985224,
         6.5382059105
       ],
-      "currentPrice": 6.729,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 6.74,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 6.5815073882,
       "takeProfit": 6.357,
@@ -513,8 +513,8 @@
         5.4383864413,
         5.4464542347
       ],
-      "currentPrice": 5.981,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 5.984,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 5.5020677934,
       "takeProfit": 5.233,
@@ -593,8 +593,8 @@
         0.9197721768,
         0.9214112928
       ],
-      "currentPrice": 0.9612,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.9601,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.934439116,
       "takeProfit": 0.8671,
@@ -673,8 +673,8 @@
         197.3032012553,
         197.6871949788
       ],
-      "currentPrice": 216.15,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 216.17,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 200.4339937235,
       "takeProfit": 187.79,
@@ -759,7 +759,7 @@
         0.0042167495
       ],
       "currentPrice": 0.004489,
-      "currentPriceAt": 1795751999999,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0042896869,
       "takeProfit": 0.004001,
@@ -838,8 +838,8 @@
         39.2954269408,
         39.368292237
       ],
-      "currentPrice": 44.42,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 44.5,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 39.7428652962,
       "takeProfit": 37.79,
@@ -923,8 +923,8 @@
         0.2154958194,
         0.2177510452
       ],
-      "currentPrice": 0.1878,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.1886,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.2007447742,
       "takeProfit": 0.2692,
@@ -1003,8 +1003,8 @@
         0.0707908005,
         0.0709367981
       ],
-      "currentPrice": 0.07098,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.07118,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0717259977,
       "takeProfit": 0.06797,
@@ -1083,8 +1083,8 @@
         1.2011113998,
         1.2055544006
       ],
-      "currentPrice": 1.236,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 1.237,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 1.2284430008,
       "takeProfit": 1.126,
@@ -1168,8 +1168,8 @@
         0.0426439578,
         0.042874169
       ],
-      "currentPrice": 0.04706,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.04713,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0442802112,
       "takeProfit": 0.03748,
@@ -1246,8 +1246,8 @@
         1.0800924714,
         1.0861301143
       ],
-      "currentPrice": 1.1543,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 1.1576,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 1.1233376429,
       "takeProfit": 0.9374,
@@ -1326,8 +1326,8 @@
         0.0100581946,
         0.0101217013
       ],
-      "currentPrice": 0.009957,
-      "currentPriceAt": 1795751999999,
+      "currentPrice": 0.009665,
+      "currentPriceAt": 1795752899999,
       "currentPriceSource": "scan",
       "stopLoss": 0.0096394933,
       "takeProfit": 0.011319,
